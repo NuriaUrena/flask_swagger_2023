@@ -90,7 +90,9 @@ Measure
 - tipo - string
 
 When the method is not successful then  this should return;
+
 404 -> Invalid ID supplied
+
 400 -> Sensor not found
 
 Steps:
